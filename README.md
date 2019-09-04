@@ -9,6 +9,11 @@ author: cephalin
 This is a sample application that you can use to follow along with the tutorial at 
 [Create an ASP.NET app in Azure with SQL Database](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-dotnet-sqldatabase/). 
 
+Follow this instruction:
+  
+https://lodmanuals.blob.core.windows.net/manuals/TechNet%20Virtual%20Labs/HTML/DT00155.htm
+
+
 ## License
 
 See [LICENSE](LICENSE).
@@ -16,5 +21,3 @@ See [LICENSE](LICENSE).
 ## Contributing
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-  
-https://lodmanuals.blob.core.windows.net/manuals/TechNet%20Virtual%20Labs/HTML/DT00155.htm
